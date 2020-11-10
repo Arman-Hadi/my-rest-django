@@ -1,4 +1,4 @@
-FROM python3.8-alpine
+FROM python:3.8.6-alpine
 MAINTAINER Arman Hadi
 
 ENV PYTHONUNBUFFERED 1
